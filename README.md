@@ -9,3 +9,6 @@ We aim to improve US healthcare system understanding by building a tool for comm
 2. View allocation and flow of investment within the healthcare system
 3. Provide a “map” for communicating healthcare issues at the policy level
 4. Provide a “map” on which to place health services and products
+
+
+Licensed under Apache License 2.0
