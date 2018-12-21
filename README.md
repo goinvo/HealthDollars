@@ -19,9 +19,9 @@ We aim to improve US healthcare system understanding by building a tool for comm
 ### Why are we building this?
 
 • A detailed high level view of all components within the US healthcare system and how they interact do not currently exist. 
-The US healthcare system is extremely convoluted. Being like “spaghetti” is not an inaccurate description. Because of this, public discourse around US healthcare issues and reforms are often too narrow in context. 
-• It is difficult to see how money is flowing through the US healthcare system. This is primarily due to the complexity of the system, which makes accurately capturing and following this data difficult, but it can also be attributed to the lack of consolidation of existing information to elucidate the wider picture. 
-• A consolidated, continually updating database of basic healthcare statistics that is both easy to navigate and understand does not currently exist.
+The US healthcare system is extremely convoluted. Being like “spaghetti” is not an inaccurate description. Because of this, public discourse around US healthcare issues and reforms are often too narrow in context.<br/>
+• It is difficult to see how money is flowing through the US healthcare system. This is primarily due to the complexity of the system, which makes accurately capturing and following this data difficult, but it can also be attributed to the lack of consolidation of existing information to elucidate the wider picture.<br/>
+• A consolidated, continually updating database of basic healthcare statistics that is both easy to navigate and understand does not currently exist.<br/>
 • Many consumer health services and products being built in the health technology space do not consider all longer term, secondary, tertiary, downstream effects of what is being developed. A map in which to place these services and products is required in order to drive development that aligns with our health values. 
 
 
