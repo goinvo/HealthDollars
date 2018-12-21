@@ -2,11 +2,11 @@
 
 Increase literacy and Improve discussions surrounding issues within the US healthcare system by designing a real-time system level view of its components and their interactions within.
 
-# Detailed summary
+### Detailed summary
 
 Design and build the Healthscape Viewer, an interactive tool to explore the real-time picture of the US healthcare system and its components, by researching and utilizing public materials on the subject and with collaboration from healthcare professionals with a system level lens. Utilize real world healthcare system data (government investment, private investment, # of hospitals, # of health professionals, # of patients, etc) to add a quantitative layer to the Viewer. Use existing APIs to automatically update this data in order to have a continually evolving yet accurate view of the current state of US healthcare from a system infrastructure lens, not a population health lens. 
 
-# Goals
+### Goals
 
 We aim to improve US healthcare system understanding by building a tool for communication:
 1. Map of US healthcare system components for professionals working within the domain
@@ -16,7 +16,7 @@ We aim to improve US healthcare system understanding by building a tool for comm
 5. Data and community-driven evolution (wiki-like editing and near-real time renders of updates)
 6. GUI admin tool for editing and adding to model
 
-# Why are we building this?
+### Why are we building this?
 
 • A detailed high level view of all components within the US healthcare system and how they interact do not currently exist. 
 The US healthcare system is extremely convoluted. Being like “spaghetti” is not an inaccurate description. Because of this, public discourse around US healthcare issues and reforms are often too narrow in context. 
