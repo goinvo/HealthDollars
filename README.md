@@ -1,6 +1,10 @@
+![alt text](https://github.com/goinvo/Healthscape/blob/master/design/healthscape_v01.jpg)
+
+
 # Healthscape Viewer
 
 Increase literacy and Improve discussions surrounding issues within the US healthcare system by designing a real-time system level view of its components and their interactions within.
+
 
 ### Detailed summary
 
@@ -27,3 +31,4 @@ The US healthcare system is extremely convoluted. Being like “spaghetti” is 
 
 
 Licensed under Apache License 2.0
+https://github.com/goinvo/Healthscape/blob/master/design/healthscape_v01.
