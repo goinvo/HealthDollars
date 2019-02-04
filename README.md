@@ -31,4 +31,4 @@ The US healthcare system is extremely convoluted. Being like “spaghetti” is 
 
 
 Licensed under Apache License 2.0
-https://github.com/goinvo/Healthscape/blob/master/design/healthscape_v02.
+https://github.com/goinvo/Healthscape/blob/master/design/healthscape_v02.jpg.
