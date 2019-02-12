@@ -1,4 +1,4 @@
-![alt text](https://github.com/goinvo/Healthscape/blob/master/design/healthscape_v03.jpg)
+![alt text](https://github.com/goinvo/Healthscape/blob/master/design/healthscape_v03_small.jpg)
 
 
 # Healthscape Viewer
