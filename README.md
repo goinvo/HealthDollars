@@ -1,14 +1,14 @@
 ![alt text](https://github.com/goinvo/Healthscape/blob/master/design/healthscape_v03_small.jpg)
 
 
-# Healthscape Viewer
+# Where Your Health Dollars Go
 
 Increase literacy and Improve discussions surrounding issues within the US healthcare system by designing a real-time system level view of its components and their interactions within.
 
 
 ### Detailed summary
 
-Design and build the Healthscape Viewer, an interactive tool to explore the real-time picture of the US healthcare system and its components, by researching and utilizing public materials on the subject and with collaboration from healthcare professionals with a system level lens. Utilize real world healthcare system data (government investment, private investment, # of hospitals, # of health professionals, # of patients, etc) to add a quantitative layer to the Viewer. Use existing APIs to automatically update this data in order to have a continually evolving yet accurate view of the current state of US healthcare from a system infrastructure lens, not a population health lens. 
+Design and build Where Your Health Dollars Go, an interactive tool to explore the real-time picture of the US healthcare system and its components, by researching and utilizing public materials on the subject and with collaboration from healthcare professionals with a system level lens. Utilize real world healthcare system data (government investment, private investment, # of hospitals, # of health professionals, # of patients, etc) to add a quantitative layer to the Viewer. Use existing APIs to automatically update this data in order to have a continually evolving yet accurate view of the current state of US healthcare from a system infrastructure lens, not a population health lens. 
 
 ### Goals
 
