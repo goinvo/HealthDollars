@@ -1,4 +1,4 @@
-![alt text](https://github.com/goinvo/Healthscape/blob/master/design/healthdollars_v05_web.jpg)
+![alt text](https://github.com/goinvo/Healthscape/blob/master/design/healthdollars_v05.jpg)
 
 
 # Where Your Health Dollars Go
